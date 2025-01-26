@@ -369,8 +369,8 @@ export function Logo({ ...props }) {
           y1="339.84784"
           x2="679.03998"
           y2="357.44608">
-          <stop offset="0" stop-color="#263652" />
-          <stop offset="1" stop-color="#374F6F" />
+          <stop offset="0" stopColor="#263652" />
+          <stop offset="1" stopColor="#374F6F" />
         </linearGradient>
       </defs>
       <path
@@ -385,8 +385,8 @@ export function Logo({ ...props }) {
           y1="33.681782"
           x2="454.17444"
           y2="34.840096">
-          <stop offset="0" stop-color="#578FBB" />
-          <stop offset="1" stop-color="#4EA9D6" />
+          <stop offset="0" stopColor="#578FBB" />
+          <stop offset="1" stopColor="#4EA9D6" />
         </linearGradient>
       </defs>
       <path
@@ -657,8 +657,8 @@ export function Logo({ ...props }) {
           y1="137.24223"
           x2="434.01831"
           y2="133.51778">
-          <stop offset="0" stop-color="#244E74" />
-          <stop offset="1" stop-color="#3C678E" />
+          <stop offset="0" stopColor="#244E74" />
+          <stop offset="1" stopColor="#3C678E" />
         </linearGradient>
       </defs>
       <path
@@ -821,8 +821,8 @@ export function Logo({ ...props }) {
           y1="40.554031"
           x2="435.81427"
           y2="44.059517">
-          <stop offset="0" stop-color="#265C84" />
-          <stop offset="1" stop-color="#407FB1" />
+          <stop offset="0" stopColor="#265C84" />
+          <stop offset="1" stopColor="#407FB1" />
         </linearGradient>
       </defs>
       <path
@@ -997,8 +997,8 @@ export function Logo({ ...props }) {
           y1="781.56201"
           x2="920.12512"
           y2="771.30133">
-          <stop offset="0" stop-color="#024385" />
-          <stop offset="1" stop-color="#3875A8" />
+          <stop offset="0" stopColor="#024385" />
+          <stop offset="1" stopColor="#3875A8" />
         </linearGradient>
       </defs>
       <path
@@ -1013,8 +1013,8 @@ export function Logo({ ...props }) {
           y1="693.4137"
           x2="902.33051"
           y2="704.90607">
-          <stop offset="0" stop-color="#033166" />
-          <stop offset="1" stop-color="#22558F" />
+          <stop offset="0" stopColor="#033166" />
+          <stop offset="1" stopColor="#22558F" />
         </linearGradient>
       </defs>
       <path
@@ -1029,8 +1029,8 @@ export function Logo({ ...props }) {
           y1="733.12305"
           x2="931.88116"
           y2="764.23303">
-          <stop offset="0" stop-color="#00315E" />
-          <stop offset="1" stop-color="#366AB0" />
+          <stop offset="0" stopColor="#00315E" />
+          <stop offset="1" stopColor="#366AB0" />
         </linearGradient>
       </defs>
       <path
@@ -1105,8 +1105,8 @@ export function Logo({ ...props }) {
           y1="721.5293"
           x2="877.73334"
           y2="721.84595">
-          <stop offset="0" stop-color="#488ABF" />
-          <stop offset="1" stop-color="#5FA8DD" />
+          <stop offset="0" stopColor="#488ABF" />
+          <stop offset="1" stopColor="#5FA8DD" />
         </linearGradient>
       </defs>
       <path
@@ -1205,8 +1205,8 @@ export function Logo({ ...props }) {
           y1="873.69946"
           x2="913.39642"
           y2="877.40271">
-          <stop offset="0" stop-color="#1968A3" />
-          <stop offset="1" stop-color="#3C91C8" />
+          <stop offset="0" stopColor="#1968A3" />
+          <stop offset="1" stopColor="#3C91C8" />
         </linearGradient>
       </defs>
       <path
@@ -1249,8 +1249,8 @@ export function Logo({ ...props }) {
           y1="817.85809"
           x2="868.57898"
           y2="833.92615">
-          <stop offset="0" stop-color="#2370AA" />
-          <stop offset="1" stop-color="#4793CC" />
+          <stop offset="0" stopColor="#2370AA" />
+          <stop offset="1" stopColor="#4793CC" />
         </linearGradient>
       </defs>
       <path
@@ -1277,8 +1277,8 @@ export function Logo({ ...props }) {
           y1="1141.1473"
           x2="866.50488"
           y2="1195.8141">
-          <stop offset="0" stop-color="#2272A9" />
-          <stop offset="1" stop-color="#3388BC" />
+          <stop offset="0" stopColor="#2272A9" />
+          <stop offset="1" stopColor="#3388BC" />
         </linearGradient>
       </defs>
       <path
@@ -1433,8 +1433,8 @@ export function Logo({ ...props }) {
           y1="591.78949"
           x2="601.20306"
           y2="325.38632">
-          <stop offset="0" stop-color="#0C1E37" />
-          <stop offset="1" stop-color="#2A3F57" />
+          <stop offset="0" stopColor="#0C1E37" />
+          <stop offset="1" stopColor="#2A3F57" />
         </linearGradient>
       </defs>
       <path
@@ -1501,8 +1501,8 @@ export function Logo({ ...props }) {
           y1="470.03412"
           x2="695.0993"
           y2="443.94077">
-          <stop offset="0" stop-color="#384D72" />
-          <stop offset="1" stop-color="#4B688A" />
+          <stop offset="0" stopColor="#384D72" />
+          <stop offset="1" stopColor="#4B688A" />
         </linearGradient>
       </defs>
       <path
@@ -1533,8 +1533,8 @@ export function Logo({ ...props }) {
           y1="466.31482"
           x2="365.8493"
           y2="460.83005">
-          <stop offset="0" stop-color="#30537B" />
-          <stop offset="1" stop-color="#597E9E" />
+          <stop offset="0" stopColor="#30537B" />
+          <stop offset="1" stopColor="#597E9E" />
         </linearGradient>
       </defs>
       <path
@@ -1585,8 +1585,8 @@ export function Logo({ ...props }) {
           y1="388.25623"
           x2="426.80783"
           y2="372.58942">
-          <stop offset="0" stop-color="#405A7D" />
-          <stop offset="1" stop-color="#7190B3" />
+          <stop offset="0" stopColor="#405A7D" />
+          <stop offset="1" stopColor="#7190B3" />
         </linearGradient>
       </defs>
       <path
@@ -1605,8 +1605,8 @@ export function Logo({ ...props }) {
           y1="382.04755"
           x2="459.33368"
           y2="370.88214">
-          <stop offset="0" stop-color="#566F93" />
-          <stop offset="1" stop-color="#5F83A5" />
+          <stop offset="0" stopColor="#566F93" />
+          <stop offset="1" stopColor="#5F83A5" />
         </linearGradient>
       </defs>
       <path
@@ -1697,8 +1697,8 @@ export function Logo({ ...props }) {
           y1="505.918"
           x2="602.68158"
           y2="527.59351">
-          <stop offset="0" stop-color="#243654" />
-          <stop offset="1" stop-color="#3B547A" />
+          <stop offset="0" stopColor="#243654" />
+          <stop offset="1" stopColor="#3B547A" />
         </linearGradient>
       </defs>
       <path
@@ -1773,8 +1773,8 @@ export function Logo({ ...props }) {
           y1="505.9393"
           x2="626.83228"
           y2="492.41254">
-          <stop offset="0" stop-color="#172A46" />
-          <stop offset="1" stop-color="#31496B" />
+          <stop offset="0" stopColor="#172A46" />
+          <stop offset="1" stopColor="#31496B" />
         </linearGradient>
       </defs>
       <path
@@ -1809,8 +1809,8 @@ export function Logo({ ...props }) {
           y1="527.23151"
           x2="635.95746"
           y2="513.336">
-          <stop offset="0" stop-color="#3A5279" />
-          <stop offset="1" stop-color="#587098" />
+          <stop offset="0" stopColor="#3A5279" />
+          <stop offset="1" stopColor="#587098" />
         </linearGradient>
       </defs>
       <path
@@ -1965,8 +1965,8 @@ export function Logo({ ...props }) {
           y1="521.79578"
           x2="638.44897"
           y2="535.20923">
-          <stop offset="0" stop-color="#273E64" />
-          <stop offset="1" stop-color="#3E577E" />
+          <stop offset="0" stopColor="#273E64" />
+          <stop offset="1" stopColor="#3E577E" />
         </linearGradient>
       </defs>
       <path
@@ -2001,8 +2001,8 @@ export function Logo({ ...props }) {
           y1="357.56693"
           x2="719.54138"
           y2="459.16306">
-          <stop offset="0" stop-color="#304B6F" />
-          <stop offset="1" stop-color="#537195" />
+          <stop offset="0" stopColor="#304B6F" />
+          <stop offset="1" stopColor="#537195" />
         </linearGradient>
       </defs>
       <path
@@ -2109,8 +2109,8 @@ export function Logo({ ...props }) {
           y1="413.06146"
           x2="788.35455"
           y2="390.30035">
-          <stop offset="0" stop-color="#29456C" />
-          <stop offset="1" stop-color="#425E85" />
+          <stop offset="0" stopColor="#29456C" />
+          <stop offset="1" stopColor="#425E85" />
         </linearGradient>
       </defs>
       <path
@@ -2133,8 +2133,8 @@ export function Logo({ ...props }) {
           y1="434.25159"
           x2="810.36322"
           y2="402.09402">
-          <stop offset="0" stop-color="#2A4A6F" />
-          <stop offset="1" stop-color="#4E6D99" />
+          <stop offset="0" stopColor="#2A4A6F" />
+          <stop offset="1" stopColor="#4E6D99" />
         </linearGradient>
       </defs>
       <path
@@ -2185,8 +2185,8 @@ export function Logo({ ...props }) {
           y1="446.59259"
           x2="785.03455"
           y2="471.11212">
-          <stop offset="0" stop-color="#304B6E" />
-          <stop offset="1" stop-color="#5E88B4" />
+          <stop offset="0" stopColor="#304B6E" />
+          <stop offset="1" stopColor="#5E88B4" />
         </linearGradient>
       </defs>
       <path
@@ -2233,8 +2233,8 @@ export function Logo({ ...props }) {
           y1="251.04468"
           x2="460.42197"
           y2="359.05911">
-          <stop offset="0" stop-color="#364F6C" />
-          <stop offset="1" stop-color="#4E6786" />
+          <stop offset="0" stopColor="#364F6C" />
+          <stop offset="1" stopColor="#4E6786" />
         </linearGradient>
       </defs>
       <path
@@ -2333,8 +2333,8 @@ export function Logo({ ...props }) {
           y1="314.47543"
           x2="473.93185"
           y2="345.56494">
-          <stop offset="0" stop-color="#314D64" />
-          <stop offset="1" stop-color="#506B8B" />
+          <stop offset="0" stopColor="#314D64" />
+          <stop offset="1" stopColor="#506B8B" />
         </linearGradient>
       </defs>
       <path
@@ -2393,8 +2393,8 @@ export function Logo({ ...props }) {
           y1="282.68906"
           x2="424.12915"
           y2="260.41348">
-          <stop offset="0" stop-color="#415E7F" />
-          <stop offset="1" stop-color="#738CAB" />
+          <stop offset="0" stopColor="#415E7F" />
+          <stop offset="1" stopColor="#738CAB" />
         </linearGradient>
       </defs>
       <path
@@ -2461,8 +2461,8 @@ export function Logo({ ...props }) {
           y1="308.26547"
           x2="438.44653"
           y2="324.54242">
-          <stop offset="0" stop-color="#4E7495" />
-          <stop offset="1" stop-color="#6F8FB0" />
+          <stop offset="0" stopColor="#4E7495" />
+          <stop offset="1" stopColor="#6F8FB0" />
         </linearGradient>
       </defs>
       <path
@@ -2509,8 +2509,8 @@ export function Logo({ ...props }) {
           y1="312.97272"
           x2="448.8891"
           y2="318.36624">
-          <stop offset="0" stop-color="#47617F" />
-          <stop offset="1" stop-color="#577A96" />
+          <stop offset="0" stopColor="#47617F" />
+          <stop offset="1" stopColor="#577A96" />
         </linearGradient>
       </defs>
       <path
@@ -2525,8 +2525,8 @@ export function Logo({ ...props }) {
           y1="311.18954"
           x2="449.82236"
           y2="324.58032">
-          <stop offset="0" stop-color="#294D69" />
-          <stop offset="1" stop-color="#506C88" />
+          <stop offset="0" stopColor="#294D69" />
+          <stop offset="1" stopColor="#506C88" />
         </linearGradient>
       </defs>
       <path
@@ -2541,8 +2541,8 @@ export function Logo({ ...props }) {
           y1="305.85358"
           x2="460.54681"
           y2="316.18378">
-          <stop offset="0" stop-color="#4E688A" />
-          <stop offset="1" stop-color="#728DAE" />
+          <stop offset="0" stopColor="#4E688A" />
+          <stop offset="1" stopColor="#728DAE" />
         </linearGradient>
       </defs>
       <path
@@ -2589,8 +2589,8 @@ export function Logo({ ...props }) {
           y1="290.17719"
           x2="462.34958"
           y2="287.58621">
-          <stop offset="0" stop-color="#5A7B9C" />
-          <stop offset="1" stop-color="#768EB0" />
+          <stop offset="0" stopColor="#5A7B9C" />
+          <stop offset="1" stopColor="#768EB0" />
         </linearGradient>
       </defs>
       <path
@@ -2957,8 +2957,8 @@ export function Logo({ ...props }) {
           y1="329.45529"
           x2="365.12137"
           y2="327.94772">
-          <stop offset="0" stop-color="#496988" />
-          <stop offset="1" stop-color="#5E85AA" />
+          <stop offset="0" stopColor="#496988" />
+          <stop offset="1" stopColor="#5E85AA" />
         </linearGradient>
       </defs>
       <path
@@ -2973,8 +2973,8 @@ export function Logo({ ...props }) {
           y1="300.20248"
           x2="387.46786"
           y2="287.43607">
-          <stop offset="0" stop-color="#294969" />
-          <stop offset="1" stop-color="#507397" />
+          <stop offset="0" stopColor="#294969" />
+          <stop offset="1" stopColor="#507397" />
         </linearGradient>
       </defs>
       <path
@@ -3533,8 +3533,8 @@ export function Logo({ ...props }) {
           y1="548.2644"
           x2="630.70056"
           y2="537.47778">
-          <stop offset="0" stop-color="#4F6F94" />
-          <stop offset="1" stop-color="#7A8BB4" />
+          <stop offset="0" stopColor="#4F6F94" />
+          <stop offset="1" stopColor="#7A8BB4" />
         </linearGradient>
       </defs>
       <path
@@ -3549,8 +3549,8 @@ export function Logo({ ...props }) {
           y1="569.53601"
           x2="563.78925"
           y2="556.39185">
-          <stop offset="0" stop-color="#081A41" />
-          <stop offset="1" stop-color="#2C3F65" />
+          <stop offset="0" stopColor="#081A41" />
+          <stop offset="1" stopColor="#2C3F65" />
         </linearGradient>
       </defs>
       <path
@@ -3725,8 +3725,8 @@ export function Logo({ ...props }) {
           y1="511.50644"
           x2="783.77228"
           y2="461.18048">
-          <stop offset="0" stop-color="#223F64" />
-          <stop offset="1" stop-color="#5E7EA6" />
+          <stop offset="0" stopColor="#223F64" />
+          <stop offset="1" stopColor="#5E7EA6" />
         </linearGradient>
       </defs>
       <path
@@ -4197,8 +4197,8 @@ export function Logo({ ...props }) {
           y1="713.93909"
           x2="776.38208"
           y2="678.81604">
-          <stop offset="0" stop-color="#182F5E" />
-          <stop offset="1" stop-color="#2E507E" />
+          <stop offset="0" stopColor="#182F5E" />
+          <stop offset="1" stopColor="#2E507E" />
         </linearGradient>
       </defs>
       <path
@@ -4317,8 +4317,8 @@ export function Logo({ ...props }) {
           y1="998.81439"
           x2="633.5744"
           y2="1015.2967">
-          <stop offset="0" stop-color="#25558E" />
-          <stop offset="1" stop-color="#4472A5" />
+          <stop offset="0" stopColor="#25558E" />
+          <stop offset="1" stopColor="#4472A5" />
         </linearGradient>
       </defs>
       <path
@@ -4497,8 +4497,8 @@ export function Logo({ ...props }) {
           y1="782.33899"
           x2="852.48364"
           y2="792.42871">
-          <stop offset="0" stop-color="#2967A1" />
-          <stop offset="1" stop-color="#4695D3" />
+          <stop offset="0" stopColor="#2967A1" />
+          <stop offset="1" stopColor="#4695D3" />
         </linearGradient>
       </defs>
       <path
@@ -4541,8 +4541,8 @@ export function Logo({ ...props }) {
           y1="733.91571"
           x2="697.79071"
           y2="736.54938">
-          <stop offset="0" stop-color="#0E1F51" />
-          <stop offset="1" stop-color="#253B6A" />
+          <stop offset="0" stopColor="#0E1F51" />
+          <stop offset="1" stopColor="#253B6A" />
         </linearGradient>
       </defs>
       <path
@@ -4557,8 +4557,8 @@ export function Logo({ ...props }) {
           y1="897.80261"
           x2="772.56049"
           y2="912.08643">
-          <stop offset="0" stop-color="#17497D" />
-          <stop offset="1" stop-color="#2E679E" />
+          <stop offset="0" stopColor="#17497D" />
+          <stop offset="1" stopColor="#2E679E" />
         </linearGradient>
       </defs>
       <path
@@ -4705,8 +4705,8 @@ export function Logo({ ...props }) {
           y1="724.29199"
           x2="875.23865"
           y2="744.06738">
-          <stop offset="0" stop-color="#00326E" />
-          <stop offset="1" stop-color="#326696" />
+          <stop offset="0" stopColor="#00326E" />
+          <stop offset="1" stopColor="#326696" />
         </linearGradient>
       </defs>
       <path
@@ -4777,8 +4777,8 @@ export function Logo({ ...props }) {
           y1="763.14014"
           x2="664.44427"
           y2="780.60724">
-          <stop offset="0" stop-color="#172C5B" />
-          <stop offset="1" stop-color="#344678" />
+          <stop offset="0" stopColor="#172C5B" />
+          <stop offset="1" stopColor="#344678" />
         </linearGradient>
       </defs>
       <path
@@ -4901,8 +4901,8 @@ export function Logo({ ...props }) {
           y1="857.90973"
           x2="843.32812"
           y2="876.86938">
-          <stop offset="0" stop-color="#4392C9" />
-          <stop offset="1" stop-color="#79C0F4" />
+          <stop offset="0" stopColor="#4392C9" />
+          <stop offset="1" stopColor="#79C0F4" />
         </linearGradient>
       </defs>
       <path
@@ -4941,8 +4941,8 @@ export function Logo({ ...props }) {
           y1="780.38184"
           x2="618.76788"
           y2="793.03162">
-          <stop offset="0" stop-color="#182755" />
-          <stop offset="1" stop-color="#2F4372" />
+          <stop offset="0" stopColor="#182755" />
+          <stop offset="1" stopColor="#2F4372" />
         </linearGradient>
       </defs>
       <path
@@ -5025,8 +5025,8 @@ export function Logo({ ...props }) {
           y1="656.82855"
           x2="863.5683"
           y2="659.18707">
-          <stop offset="0" stop-color="#6791C7" />
-          <stop offset="1" stop-color="#90C7F1" />
+          <stop offset="0" stopColor="#6791C7" />
+          <stop offset="1" stopColor="#90C7F1" />
         </linearGradient>
       </defs>
       <path
@@ -5065,8 +5065,8 @@ export function Logo({ ...props }) {
           y1="707.3833"
           x2="857.05096"
           y2="675.65497">
-          <stop offset="0" stop-color="#023667" />
-          <stop offset="1" stop-color="#356AA5" />
+          <stop offset="0" stopColor="#023667" />
+          <stop offset="1" stopColor="#356AA5" />
         </linearGradient>
       </defs>
       <path
@@ -5193,8 +5193,8 @@ export function Logo({ ...props }) {
           y1="812.99249"
           x2="524.4585"
           y2="790.15204">
-          <stop offset="0" stop-color="#142B59" />
-          <stop offset="1" stop-color="#2C4571" />
+          <stop offset="0" stopColor="#142B59" />
+          <stop offset="1" stopColor="#2C4571" />
         </linearGradient>
       </defs>
       <path
@@ -5577,8 +5577,8 @@ export function Logo({ ...props }) {
           y1="1134.8746"
           x2="782.00458"
           y2="1171.2683">
-          <stop offset="0" stop-color="#3089BC" />
-          <stop offset="1" stop-color="#4FA2D5" />
+          <stop offset="0" stopColor="#3089BC" />
+          <stop offset="1" stopColor="#4FA2D5" />
         </linearGradient>
       </defs>
       <path
@@ -5697,8 +5697,8 @@ export function Logo({ ...props }) {
           y1="959.00903"
           x2="837.97595"
           y2="933.33673">
-          <stop offset="0" stop-color="#3587BE" />
-          <stop offset="1" stop-color="#57A4DD" />
+          <stop offset="0" stopColor="#3587BE" />
+          <stop offset="1" stopColor="#57A4DD" />
         </linearGradient>
       </defs>
       <path
@@ -5873,8 +5873,8 @@ export function Logo({ ...props }) {
           y1="1042.9089"
           x2="605.5343"
           y2="1050.306">
-          <stop offset="0" stop-color="#2C5CB3" />
-          <stop offset="1" stop-color="#3274C8" />
+          <stop offset="0" stopColor="#2C5CB3" />
+          <stop offset="1" stopColor="#3274C8" />
         </linearGradient>
       </defs>
       <path
@@ -6237,8 +6237,8 @@ export function Logo({ ...props }) {
           y1="550.38733"
           x2="338.48123"
           y2="546.84436">
-          <stop offset="0" stop-color="#426D9E" />
-          <stop offset="1" stop-color="#5C83AD" />
+          <stop offset="0" stopColor="#426D9E" />
+          <stop offset="1" stopColor="#5C83AD" />
         </linearGradient>
       </defs>
       <path
@@ -6389,8 +6389,8 @@ export function Logo({ ...props }) {
           y1="366.22849"
           x2="328.01932"
           y2="366.19702">
-          <stop offset="0" stop-color="#4A6F8B" />
-          <stop offset="1" stop-color="#6789AA" />
+          <stop offset="0" stopColor="#4A6F8B" />
+          <stop offset="1" stopColor="#6789AA" />
         </linearGradient>
       </defs>
       <path
@@ -6409,8 +6409,8 @@ export function Logo({ ...props }) {
           y1="360.68188"
           x2="321.55707"
           y2="360.62164">
-          <stop offset="0" stop-color="#46678C" />
-          <stop offset="1" stop-color="#6F93C3" />
+          <stop offset="0" stopColor="#46678C" />
+          <stop offset="1" stopColor="#6F93C3" />
         </linearGradient>
       </defs>
       <path
@@ -6465,8 +6465,8 @@ export function Logo({ ...props }) {
           y1="954.94647"
           x2="532.09741"
           y2="991.51886">
-          <stop offset="0" stop-color="#19395E" />
-          <stop offset="1" stop-color="#20529C" />
+          <stop offset="0" stopColor="#19395E" />
+          <stop offset="1" stopColor="#20529C" />
         </linearGradient>
       </defs>
       <path
@@ -6737,8 +6737,8 @@ export function Logo({ ...props }) {
           y1="418.02231"
           x2="343.50504"
           y2="429.24332">
-          <stop offset="0" stop-color="#3D6689" />
-          <stop offset="1" stop-color="#617C9E" />
+          <stop offset="0" stopColor="#3D6689" />
+          <stop offset="1" stopColor="#617C9E" />
         </linearGradient>
       </defs>
       <path
@@ -7061,8 +7061,8 @@ export function Logo({ ...props }) {
           y1="516.8847"
           x2="382.28879"
           y2="520.76471">
-          <stop offset="0" stop-color="#10254D" />
-          <stop offset="1" stop-color="#234263" />
+          <stop offset="0" stopColor="#10254D" />
+          <stop offset="1" stopColor="#234263" />
         </linearGradient>
       </defs>
       <path
@@ -7097,8 +7097,8 @@ export function Logo({ ...props }) {
           y1="505.78098"
           x2="367.1246"
           y2="505.53308">
-          <stop offset="0" stop-color="#6E8CB3" />
-          <stop offset="1" stop-color="#91ACD0" />
+          <stop offset="0" stopColor="#6E8CB3" />
+          <stop offset="1" stopColor="#91ACD0" />
         </linearGradient>
       </defs>
       <path
@@ -7237,8 +7237,8 @@ export function Logo({ ...props }) {
           y1="251.31854"
           x2="343.39606"
           y2="250.07957">
-          <stop offset="0" stop-color="#193456" />
-          <stop offset="1" stop-color="#486E90" />
+          <stop offset="0" stopColor="#193456" />
+          <stop offset="1" stopColor="#486E90" />
         </linearGradient>
       </defs>
       <path
@@ -7265,8 +7265,8 @@ export function Logo({ ...props }) {
           y1="199.12383"
           x2="345.79736"
           y2="239.43193">
-          <stop offset="0" stop-color="#214361" />
-          <stop offset="1" stop-color="#3D6387" />
+          <stop offset="0" stopColor="#214361" />
+          <stop offset="1" stopColor="#3D6387" />
         </linearGradient>
       </defs>
       <path
@@ -7341,8 +7341,8 @@ export function Logo({ ...props }) {
           y1="104.72958"
           x2="355.63058"
           y2="105.83612">
-          <stop offset="0" stop-color="#5083B1" />
-          <stop offset="1" stop-color="#74AED6" />
+          <stop offset="0" stopColor="#5083B1" />
+          <stop offset="1" stopColor="#74AED6" />
         </linearGradient>
       </defs>
       <path
@@ -7381,8 +7381,8 @@ export function Logo({ ...props }) {
           y1="102.27995"
           x2="359.93011"
           y2="108.07162">
-          <stop offset="0" stop-color="#0B3159" />
-          <stop offset="1" stop-color="#1F4E75" />
+          <stop offset="0" stopColor="#0B3159" />
+          <stop offset="1" stopColor="#1F4E75" />
         </linearGradient>
       </defs>
       <path
@@ -7477,8 +7477,8 @@ export function Logo({ ...props }) {
           y1="263.83344"
           x2="369.84924"
           y2="275.94012">
-          <stop offset="0" stop-color="#6588AD" />
-          <stop offset="1" stop-color="#86AACE" />
+          <stop offset="0" stopColor="#6588AD" />
+          <stop offset="1" stopColor="#86AACE" />
         </linearGradient>
       </defs>
       <path
@@ -7509,8 +7509,8 @@ export function Logo({ ...props }) {
           y1="130.66034"
           x2="378.50558"
           y2="165.00691">
-          <stop offset="0" stop-color="#1D4362" />
-          <stop offset="1" stop-color="#315D87" />
+          <stop offset="0" stopColor="#1D4362" />
+          <stop offset="1" stopColor="#315D87" />
         </linearGradient>
       </defs>
       <path
@@ -7545,8 +7545,8 @@ export function Logo({ ...props }) {
           y1="147.39613"
           x2="387.76538"
           y2="147.9575">
-          <stop offset="0" stop-color="#598AA9" />
-          <stop offset="1" stop-color="#75A8D7" />
+          <stop offset="0" stopColor="#598AA9" />
+          <stop offset="1" stopColor="#75A8D7" />
         </linearGradient>
       </defs>
       <path
@@ -7669,8 +7669,8 @@ export function Logo({ ...props }) {
           y1="29.994562"
           x2="378.95438"
           y2="32.505352">
-          <stop offset="0" stop-color="#4E8CBB" />
-          <stop offset="1" stop-color="#86C3F0" />
+          <stop offset="0" stopColor="#4E8CBB" />
+          <stop offset="1" stopColor="#86C3F0" />
         </linearGradient>
       </defs>
       <path
@@ -7701,8 +7701,8 @@ export function Logo({ ...props }) {
           y1="42.983944"
           x2="395.26752"
           y2="66.081886">
-          <stop offset="0" stop-color="#1B476F" />
-          <stop offset="1" stop-color="#2A6087" />
+          <stop offset="0" stopColor="#1B476F" />
+          <stop offset="1" stopColor="#2A6087" />
         </linearGradient>
       </defs>
       <path
@@ -7741,8 +7741,8 @@ export function Logo({ ...props }) {
           y1="-0.071073651"
           x2="415.33261"
           y2="15.222603">
-          <stop offset="0" stop-color="#448EBF" />
-          <stop offset="1" stop-color="#5EA7D5" />
+          <stop offset="0" stopColor="#448EBF" />
+          <stop offset="1" stopColor="#5EA7D5" />
         </linearGradient>
       </defs>
       <path
@@ -7845,8 +7845,8 @@ export function Logo({ ...props }) {
           y1="240.40695"
           x2="389.06854"
           y2="240.66628">
-          <stop offset="0" stop-color="#4A6E94" />
-          <stop offset="1" stop-color="#5A83A0" />
+          <stop offset="0" stopColor="#4A6E94" />
+          <stop offset="1" stopColor="#5A83A0" />
         </linearGradient>
       </defs>
       <path
@@ -7933,8 +7933,8 @@ export function Logo({ ...props }) {
           y1="225.5257"
           x2="390.86328"
           y2="231.89894">
-          <stop offset="0" stop-color="#2A4D6C" />
-          <stop offset="1" stop-color="#43688A" />
+          <stop offset="0" stopColor="#2A4D6C" />
+          <stop offset="1" stopColor="#43688A" />
         </linearGradient>
       </defs>
       <path
@@ -7957,8 +7957,8 @@ export function Logo({ ...props }) {
           y1="211.55269"
           x2="383.14374"
           y2="226.97633">
-          <stop offset="0" stop-color="#244560" />
-          <stop offset="1" stop-color="#3E6583" />
+          <stop offset="0" stopColor="#244560" />
+          <stop offset="1" stopColor="#3E6583" />
         </linearGradient>
       </defs>
       <path
